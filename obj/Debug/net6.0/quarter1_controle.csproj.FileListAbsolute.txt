@@ -1,0 +1,15 @@
+/home/s/Документы/1quater_specification_choice/quarter1_controle/bin/Debug/net6.0/quarter1_controle
+/home/s/Документы/1quater_specification_choice/quarter1_controle/bin/Debug/net6.0/quarter1_controle.deps.json
+/home/s/Документы/1quater_specification_choice/quarter1_controle/bin/Debug/net6.0/quarter1_controle.runtimeconfig.json
+/home/s/Документы/1quater_specification_choice/quarter1_controle/bin/Debug/net6.0/quarter1_controle.dll
+/home/s/Документы/1quater_specification_choice/quarter1_controle/bin/Debug/net6.0/ref/quarter1_controle.dll
+/home/s/Документы/1quater_specification_choice/quarter1_controle/bin/Debug/net6.0/quarter1_controle.pdb
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.csproj.AssemblyReference.cache
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.GeneratedMSBuildEditorConfig.editorconfig
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.AssemblyInfoInputs.cache
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.AssemblyInfo.cs
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.csproj.CoreCompileInputs.cache
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.dll
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/ref/quarter1_controle.dll
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.pdb
+/home/s/Документы/1quater_specification_choice/quarter1_controle/obj/Debug/net6.0/quarter1_controle.genruntimeconfig.cache
