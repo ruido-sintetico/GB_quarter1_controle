@@ -2,10 +2,10 @@
 Сформировать массив из заданного массива, в котором элементы это строки, имеющие более трех символов.
 
 ## Решение:
-1. Метод CreateArray создает массив из строки, введенной пользователем.
-2. Метод NoMoreThreeLettersString получает массив строк и возвращает массив без элементов, в которых менее 3 символов.
-3. Метод NoMoreThreeLettersString использует метод NumberElementsLessThreeSymbols для вычисления количества элементов, в которых менее 3 символов.
-4. Метод PrintArray печатает полученный массив.
+1. Метод **CreateArray** создает массив из строки, введенной пользователем.
+2. Метод **NoMoreThreeLettersString** получает массив строк и возвращает массив без элементов, в которых менее 3 символов.
+3. Метод **NoMoreThreeLettersString** использует метод **NumberElementsLessThreeSymbols** для вычисления количества элементов, в которых менее 3 символов.
+4. Метод **PrintArray** печатает полученный массив.
 
-Блок-схема алгоритма метода NoMoreThreeLettersString лежит здесь: 
+Блок-схема алгоритма метода NoMoreThreeLettersString лежит здесь: https://github.com/ruido-sintetico/quarter1_controle/blob/main/Diagram.jpg
 
